@@ -1,0 +1,16 @@
+Cezary Komor II/2 IO
+Baza danych – szkoła
+1.
+Projekt bazy danych szkoły ma na celu służyć jako przechowalnia danych instytucji prywatnej uczelnianej.
+Baza danych przechowuje dane w 8 tabelach.
+Tabela nauczyciele przechowuje dane o nauczycielach uczących w instytucji.
+Tabela klasy przechowuje informacje o klasach, ilości maksymalnej uczniów, jaki nauczyciel uczy klasę i jaka lekcje prowadzi.
+Tabela uczniowie_klasy przechowuje dane o tym jaki uczeń chodzi do jakiej klasy.
+Tabela uczniowie przechowuję informacje o uczniach.
+Tabela lekcje przechowuje dane o lekcjach.
+Tabela nauczyciele_lekcje przechowuje dane jaki nauczyciel uczy jakiej lekcji.
+Tabela plan_godzin posiada informacje o liczbie zajęć w danym dniu oraz od której do której trwają.
+Klasy_plan_godzina posiada informacje na temat jaka klasa ma lekcje w danych godzinach i danym dniu.
+
+
+
