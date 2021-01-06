@@ -34,5 +34,5 @@ WHERE max_uczniow="12"
 SELECT COUNT(max_uczniow),idklasy FROM klasy
 INNER JOIN nauczyciele ON idnauczyciele=idnauczyciele_klasy
 GROUP BY max_uczniow
-HAVING COUNT(max_uczniow) < 10;
+HAVING COUNT(max_uczniow) < 10; 
 
